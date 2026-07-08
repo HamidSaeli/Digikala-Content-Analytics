@@ -1,0 +1,22 @@
+# Jupyter
+.ipynb_checkpoints/
+
+
+# Python
+__pycache__/
+*.pyc
+
+
+# Data
+data/raw/
+*.csv
+*.xlsx
+
+
+# Environment
+.env
+
+
+# OS
+.DS_Store
+Thumbs.db
